@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "bgcSFDXcourse",
+            "package": "force-app",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "bgcSFDXcourse",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "force-app": "0Ho5Y000000Kyz2SAC",
+        "force-app@0.1.0-1": "04t5Y000001DZgvQAG",
+        "force-app@0.1.0-2": "04t5Y000001DZh0QAG"
+    }
+}
